@@ -1,4 +1,4 @@
-package io.github.evaldofreu.vendas;
+package io.github.evaldofreu;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package io.github.evaldofreu.vendas;
+package io.github.evaldofreu;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
